@@ -1,0 +1,7 @@
+
+discord_token = ""
+discord_channels = [
+  "1409939729771925545",
+]
+amount = 1_000_000
+retries = 3
